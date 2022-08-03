@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Link [User Dashboard](https://luminous-quokka-486bf3.netlify.app/).
+## Live Link [User Dashboard](https://inventory-management-sys-cd755.web.app/).
 
 ## Introduction
 >This project is just a design. Nothing more as you mentioned in your requirement. I did't implement payment process but did firebase authentication with firebase github hooks. So user can login here. They can see the everything's though. And also this page isn't responsive because it's not mentioned there.This react project made with tailwind css and custom css. Thats it. Hope you will like it. Thanks.
